@@ -57,7 +57,7 @@ We use BLEU scores (BLEU-1 to BLEU-4) to evaluate the similarity between generat
 Image: \[Image of a dog running]
 CNN-LSTM Caption: "A dog is running in the field."
 Transformer Caption: "A dog is playing in the grass."
-![example image](image.png)
+![example image](image.webp)
 
 
 ---
